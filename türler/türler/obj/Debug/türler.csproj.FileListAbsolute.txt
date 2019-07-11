@@ -1,0 +1,7 @@
+C:\Users\mustafa\source\repos\türler\türler\bin\Debug\türler.exe.config
+C:\Users\mustafa\source\repos\türler\türler\bin\Debug\türler.exe
+C:\Users\mustafa\source\repos\türler\türler\bin\Debug\türler.pdb
+C:\Users\mustafa\source\repos\türler\türler\obj\Debug\türler.csprojAssemblyReference.cache
+C:\Users\mustafa\source\repos\türler\türler\obj\Debug\türler.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\source\repos\türler\türler\obj\Debug\türler.exe
+C:\Users\mustafa\source\repos\türler\türler\obj\Debug\türler.pdb
